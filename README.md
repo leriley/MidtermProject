@@ -5,4 +5,4 @@ Navigation
   * My Resume
   * My Comic
   * Contact Me
-[here]([MidtermProject/2.md](https://github.com/leriley/MidtermProject/blob/fd6b1fd5e32d89d550d69ea07093edf1687a7ec4/2.md))
+[here](2.md)
