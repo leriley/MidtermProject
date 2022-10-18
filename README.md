@@ -5,4 +5,4 @@ Navigation
   * My Resume
   * My Comic
   * Contact Me
-[here](2)
+[here](MidtermProject/2.md)
