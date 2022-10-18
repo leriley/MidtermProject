@@ -7,5 +7,6 @@ Here's a couple of small page samples!
   ![page2](page2.png)
 
 ### Characters
-* Annabel Lee, a girl obsessed with the paranomrla and dedicated to uncovering the cause for the Harvest. Her mother was a Harvest victim when Annabel was five years old.
-* Sydney, Annabel's best friend. Fearless and full of angst, he's the other other kid in town willing to
+* Annabel Lee, a girl obsessed with the paranormal and dedicated to uncovering the cause for the Harvest. Her mother was a Harvest victim when Annabel was five years old.
+* Sydney, Annabel's best friend. Fearless and full of angst, he's the other other kid in town willing to listen to Annabel Lee.
+* Roxie Lane: Although highly recognizable due to the unqiue markings on her skin and the white streaks in her hair, not much is known about her. She doesn't go to school in town. No one knowns where she lives or has ever heard her speak.
