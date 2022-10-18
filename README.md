@@ -5,4 +5,4 @@ Navigation
   * My Resume
   * My Comic
   * Contact Me
-[here](leriley/2)
+[here](2)
