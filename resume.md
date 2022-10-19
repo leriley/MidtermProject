@@ -27,18 +27,9 @@ Knowledge in the use of Adobe programs such as Photoshop, Illustrator, InDesign,
 Experience with Autodesk programs and knowledge in primary architecture, civil engineering drawing, and moderate knowledge in 3D animation and modeling
 
 References
+Bob Allee - Computer Aided Design Teacher - (573) xxx-xxxx
 
-Bob Allee
-
-Computer Aided Design Teacher
-
-(573) xxx-xxxx
-
-Brittany Williamson
-
-Art Teacher
-
-(573) xxx-xxxx
+Brittany Williamson - Art Teacher - (573) xxx-xxxx
 
 #### Here's some python code from previous assignments
 
