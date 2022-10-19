@@ -1,3 +1,3 @@
 [Home](README.md) | [About Me](aboutme.md) | [My Resume](resume.md) | [My Art and Comic](art.md)
 
-My school email is rileyle@umsystem.edu 
+My school email is rileyle@umsystem.edu and my discord @ is Zeta_Reticuli#9745
