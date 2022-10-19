@@ -29,17 +29,18 @@ Experience with Autodesk programs and knowledge in primary architecture, civil e
 References
 
 Bob Allee
+
 Computer Aided Design Teacher
-(573) 673-9309
+
+(573) xxx-xxxx
 
 Brittany Williamson
-Art Teacher
-(573) 999-5037
 
-Melissa Finaly
-Guidance Counselor
-mfinlay@hallsville.org 
+Art Teacher
+
+(573) xxx-xxxx
 
 #### Here's some python code from previous assignments
+
 ##### Volume Calculator
 
