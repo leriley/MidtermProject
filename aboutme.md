@@ -5,4 +5,4 @@ Hi! This is my About Me page. Here's a few Lenore Facts:
 * I love goth fashion. Check out my favorite clothing shop [here!](https://us.killstar.com/),
 * I have five sisters
 * I have a kitten named Dr Pepper and she's getting bigger every day! Here's a photo from her fall photoshoot:
-[(https://i.imgur.com/rG4CsE8.png)](https://i.imgur.com/rG4CsE8.png)
+https://i.imgur.com/rG4CsE8.png
