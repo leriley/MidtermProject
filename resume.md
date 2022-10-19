@@ -72,8 +72,7 @@ while (run_program):
 
     go_again = (input("Would you like to perform another calculation? y/n: "))
     if go_again != "y":
-        run_program = False
-print("Goodbye.") `
+        run_program = False `
 
 ##### FizzBuzz solution
 ` function fizzbuzz() {
