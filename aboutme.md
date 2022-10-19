@@ -1,4 +1,4 @@
-[Home](README.md)
+[Home](README.md) | [My Resume](resume.md) | [My Art and Comic](art.md) | [Contact Details](contact.md)
 
 Hi! This is my About Me page. Here's a few Lenore Facts:
 * I was named after the dead chick in Edgar Allan Poe's *The Raven*
