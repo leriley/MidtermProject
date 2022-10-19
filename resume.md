@@ -75,7 +75,7 @@ while (run_program):
         run_program = False `
 
 ##### FizzBuzz solution
-` <!-- function fizzbuzz() {
+` function fizzbuzz() {
 	var display = document.getElementById('display');
 	var displayHTML = "";
 	for (i = 1; i <= 100; i++) {
@@ -89,4 +89,4 @@ while (run_program):
 		displayHTML += "<p>" + i + "</p>";
 	}
 	display.innerHTML = displayHTML
-} --> `
+} `
