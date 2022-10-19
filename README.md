@@ -4,4 +4,4 @@ Navigation
   * [About Me](aboutme.md)
   * [My Resume](resume.md)
   * [My Art and Comic](art.md)
-  * [Contact Details](2.md)
+  * [Contact Details](contact.md)
