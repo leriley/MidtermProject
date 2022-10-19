@@ -2,7 +2,7 @@
 
 My resume which I desperately need to update!
 
-Education
+Education - 
 2015 graduate of Hallsville High School, Hallsville, Missouri 
 Associate of Arts degree awarded by Moberaly Area Community College
 4.0 GPA with MACC
