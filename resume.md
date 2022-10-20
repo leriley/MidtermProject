@@ -33,4 +33,36 @@ Brittany Williamson - Art Teacher - (573) xxx-xxxx
 #### Here's some python code from previous assignments
 
 ##### Volume Calculator
+` print("Let\'s find the volume of a cylinder.")
 
+run_program = True
+while (run_program):  
+    while (True):  
+        try:  
+            r = float(input("Enter the radius of the cylinder: "))  
+            if (r < 0):  
+                print("Please enter a non negative value.")  
+                continue  
+        except ValueError:  
+            print("Input invalid. Please enter a numerical value.")  
+        else:  
+            break  
+
+    while (True):  
+        try:  
+            h = float(input("Enter the height of the cylinder: "))  
+            if (h < 0):  
+                print("Please enter a non negative value.")  
+                continue  
+        except ValueError:  
+            print("Input invalid. Please enter a numerical value.")  
+        else:  
+            break  
+    import math  
+    volume = math.pi * r**2 * h  
+    print("The volume of your cylinder is", volume)  
+
+    go_again = (input("Would you like to perform another calculation? y/n: "))  
+    if go_again != "y":  
+        run_program = False  
+print("Goodbye.") `
