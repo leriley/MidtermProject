@@ -1,6 +1,6 @@
 [Home](README.md) | [About Me](aboutme.md) | [My Art and Comic](art.md) | [Contact Details](contact.md)
 
-My resume which I desperately need to update!
+**My resume which I desperately need to update!**
 
 Education - 
 2015 graduate of Hallsville High School, Hallsville, Missouri   
