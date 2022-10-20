@@ -33,36 +33,74 @@ Brittany Williamson - Art Teacher - (573) xxx-xxxx
 #### Here's some python code from previous assignments
 
 ##### Volume Calculator
-` print("Let\'s find the volume of a cylinder.")
+``` open_file = input('Indicate the name of the file you would like to work with: ')
 
-run_program = True
-while (run_program):  
-    while (True):  
-        try:  
-            r = float(input("Enter the radius of the cylinder: "))  
-            if (r < 0):  
-                print("Please enter a non negative value.")  
-                continue  
-        except ValueError:  
-            print("Input invalid. Please enter a numerical value.")  
-        else:  
-            break  
+keys = ('name of file', 'count of numbers in file', 'sum of numbers', 'average of numbers', 'maximum value', 'minimum value', 'range of values')
+values = 0
+dictionary = dict.fromkeys(keys, values)
+dictionary['name of file'] = open_file
 
-    while (True):  
-        try:  
-            h = float(input("Enter the height of the cylinder: "))  
-            if (h < 0):  
-                print("Please enter a non negative value.")  
-                continue  
-        except ValueError:  
-            print("Input invalid. Please enter a numerical value.")  
-        else:  
-            break  
-    import math  
-    volume = math.pi * r**2 * h  
-    print("The volume of your cylinder is", volume)  
+with open(open_file) as get_data:
+    contents = get_data.read().split()
+# with block closes file after completion
 
-    go_again = (input("Would you like to perform another calculation? y/n: "))  
-    if go_again != "y":  
-        run_program = False  
-print("Goodbye.") `
+for i in range(len(contents)):
+    contents[i] = int(contents[i])
+
+dictionary['count of numbers in file'] = len(contents)
+dictionary['sum of numbers'] = sum(contents)
+dictionary['average of numbers'] = sum(contents)/len(contents)
+dictionary['maximum value'] = max(contents)
+dictionary['minimum value'] = min(contents)
+dictionary['range of values'] = dictionary['maximum value'] - dictionary['minimum value']
+
+print('You can learn about the following file attributes: name, sum, count, average, max, min, range.')
+def learning():
+    learn_more = input('Please indicate what you would like to know more about: ')
+    if learn_more == 'name':
+        print(f"The name of the file is {dictionary['name of file']}.")
+    elif learn_more == 'sum':
+        print(f"The sum of numbers in the file is {dictionary['sum of numbers']}.")
+    elif learn_more == 'count':
+        print(f"The count of numbers in the file is {dictionary['count of numbers in file']}.")
+    elif learn_more == 'average':
+        print(f"The average number in the file is {dictionary['average of numbers']}.")
+    elif learn_more == 'max':
+        print(f"The maximum value of numbers in the file is {dictionary['maximum value']}.")
+    elif learn_more == 'min':
+        print(f"The maximum value of numbers in the file is {dictionary['minimum value']}.")
+    elif learn_more == 'range':
+        print(f"The range of numbers in the file is {dictionary['range of values']}.")
+    else:
+        print('Invalid input')
+
+def run_again():
+    yesno = input("Would you like to know more? y/n: ")
+    if yesno == 'y':
+        learning()
+        run_again()
+    else:
+        exit()
+
+learning()
+run_again()
+```
+
+##### FizzBuzz Solution
+``` function fizzbuzz() {  
+	var display = document.getElementById('display');  
+	var displayHTML = "";  
+	for (i = 1; i <= 100; i++) {  
+		if (i % 3 === 0 && i % 5 === 0) {  
+			displayHTML += "<p>" + 'FizzBuzz' + "</p>";  
+		} else if (i % 3 === 0) {  
+			displayHTML += "<p>" + 'Fizz' + "</p>";  
+		} else if (i % 5 === 0) {  
+			displayHTML += "<p>" + 'Buzz' + "</p>";  
+		} else  
+		displayHTML += "<p>" + i + "</p>";  
+	}  
+	display.innerHTML = displayHTML  
+}  
+```
+
