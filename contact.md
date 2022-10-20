@@ -1,3 +1,10 @@
 [Home](README.md) | [About Me](aboutme.md) | [My Resume](resume.md) | [My Art and Comic](art.md)
 
-My school email is rileyle@umsystem.edu and my discord @ is Zeta_Reticuli#9745
+Email me at:  
+rileyle@umsystem.edu 
+
+Message me on discord:  
+Zeta_Reticuli#9745
+
+Art Instagram:  
+https://www.instagram.com/zeta___reticuli
