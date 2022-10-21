@@ -1,3 +1,5 @@
+[Home](README.md) | [About Me](aboutme.md) | [My Resume](resume.md) | [My Art and Comic](art.md) |
+
 ## Corruption in *The Sims 2* is Largely Exaggerated and Misunderstood
 ### Here is an FAQ about myths and misconceptions regarding *Sims 2* corruption:
 
