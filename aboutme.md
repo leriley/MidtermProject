@@ -1,4 +1,4 @@
-[Home](README.md) | [My Resume](resume.md) | [My Art and Comic](art.md) | [Contact Details](contact.md)
+[Home](README.md) | [My Resume](resume.md) | [My Art and Comic](art.md) | [Contact Details](contact.md) | [Gaming](sims2.md)
 
 #### Hi! This is my About Me page. Here's a few Lenore Facts:
 * My first name comes from Edgar Allan Poe's *The Raven*
