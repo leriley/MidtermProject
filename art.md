@@ -1,4 +1,4 @@
-[Home](README.md) | [About Me](aboutme.md) | [My Resume](resume.md) | [Contact Details](contact.md)
+[Home](README.md) | [About Me](aboutme.md) | [My Resume](resume.md) | [Contact Details](contact.md) | [Gaming](sims2.md)
 
 
 I started drawing at the age of 13 years old. At the age of 14, I started developing an idea for a story which became the comic I'm working on today. Here's a couple of small page samples!
