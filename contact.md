@@ -1,4 +1,4 @@
-[Home](README.md) | [About Me](aboutme.md) | [My Resume](resume.md) | [My Art and Comic](art.md)
+[Home](README.md) | [About Me](aboutme.md) | [My Resume](resume.md) | [My Art and Comic](art.md) | [Gaming](sims2.md)
 
 Email me at:  
 rileyle@umsystem.edu 
