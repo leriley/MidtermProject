@@ -5,3 +5,4 @@ Navigation
   * [My Resume](resume.md)
   * [My Art and Comic](art.md)
   * [Contact Details](contact.md)
+  * [Gaming](sims2.md)
